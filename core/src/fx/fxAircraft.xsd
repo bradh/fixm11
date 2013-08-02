@@ -49,7 +49,7 @@ Details on the SJU and its members: http://www.sesarju.eu/players/members
 
     <xsd:annotation>
         <xsd:documentation>
-            The fxAircraft schema provides elements relating to an aicraft, including its identification, physical
+            The fxAircraft schema provides elements relating to an aircraft, including its identification, physical
             characteristics, owner, and all its capabilities.
         </xsd:documentation>
     </xsd:annotation>
@@ -83,7 +83,7 @@ Details on the SJU and its members: http://www.sesarju.eu/players/members
             <xsd:appinfo source="fx:implements">Aircraft Colour and Markings</xsd:appinfo>
             <xsd:appinfo source="fx:implements">Aircraft Type</xsd:appinfo>
         <xsd:documentation>
-            Defines all elements relating to an aicraft, including its identification, physical
+            Defines all elements relating to an aircraft, including its identification, physical
             characteristics, owner, markings, and all its capabilities.
         </xsd:documentation>
         </xsd:annotation>
