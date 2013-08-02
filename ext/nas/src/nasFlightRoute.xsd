@@ -88,7 +88,7 @@ Details on the SJU and its members: http://www.sesarju.eu/players/members
         <xsd:annotation>
             <xsd:documentation>
                 Extends the core ICAO route string syntax to include the symbols and syntax peculiar
-                to the NAS foute string format.
+                to the NAS route string format.
             </xsd:documentation>
         </xsd:annotation>
         <xsd:restriction base="fx:RouteTextType">
