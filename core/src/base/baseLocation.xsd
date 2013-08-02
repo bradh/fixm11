@@ -55,7 +55,7 @@ Details on the SJU and its members: http://www.sesarju.eu/players/members
    <xsd:annotation>
       <xsd:documentation>
         The location schema contains all FIXM definitions for locations. "Locations" can be more complex than simple
-        geographic points: they also encompase waypoints (fixes, etc) and offsets from other points: anything that
+        geographic points: they also encompass waypoints (fixes, etc) and offsets from other points: anything that
         can be mapped to a geographic location. Furthermore, extensions may add new location types as needed.
       </xsd:documentation>
    </xsd:annotation>
