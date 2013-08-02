@@ -143,7 +143,7 @@ Details on the SJU and its members: http://www.sesarju.eu/players/members
     <xsd:complexType name="NasBoundaryCrossingType">
         <xsd:annotation>
             <xsd:documentation>
-                NAS extension to boundary crossing informatin: includes special handling for crossing time.
+                NAS extension to boundary crossing information: includes special handling for crossing time.
             </xsd:documentation>
             <xsd:appinfo source="fx:implements">Coordination Time Type</xsd:appinfo>
             <xsd:appinfo source="fx:implements">Coordination Fix</xsd:appinfo>
