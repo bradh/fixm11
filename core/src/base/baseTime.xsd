@@ -49,7 +49,7 @@ Details on the SJU and its members: http://www.sesarju.eu/players/members
 	<xsd:annotation>
 		<xsd:documentation>
          	The baseTime schema provides representations for all time elements. Schemas should use these
-         	representations in preference  XSD representations. 
+         	representations in preference to XSD representations. 
       	</xsd:documentation>
 	</xsd:annotation>
 
