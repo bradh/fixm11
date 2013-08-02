@@ -73,7 +73,7 @@ Details on the SJU and its members: http://www.sesarju.eu/players/members
    <xsd:complexType name="UnlistedAerodromeReferenceType">
       <xsd:annotation>
          <xsd:documentation>
-            Identifies an aerodrome that does not posess a listed ICAO code, specifying both its
+            Identifies an aerodrome that does not possess a listed ICAO code, specifying both its
             aerodrome name ("Dallas Fort Worth") and a significant point consisting of:
                * its geographic location (latitude and longitude) OR
                * the first significant point of a flight route OR
