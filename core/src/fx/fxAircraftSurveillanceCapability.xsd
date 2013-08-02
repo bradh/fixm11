@@ -97,14 +97,14 @@ Details on the SJU and its members: http://www.sesarju.eu/players/members
         <xsd:enumeration value="B1">
             <xsd:annotation>
                 <xsd:documentation>
-                    ADS-B with dedicated 1090 Mhz ADS-B out capability
+                    ADS-B with dedicated 1090 MHz ADS-B out capability
                 </xsd:documentation>
             </xsd:annotation>
         </xsd:enumeration>
         <xsd:enumeration value="B2">
             <xsd:annotation>
                 <xsd:documentation>
-                    ADS-B with dedicated 1090 Mhz ADS-B out and in capability
+                    ADS-B with dedicated 1090 MHz ADS-B out and in capability
                 </xsd:documentation>
             </xsd:annotation>
         </xsd:enumeration>
