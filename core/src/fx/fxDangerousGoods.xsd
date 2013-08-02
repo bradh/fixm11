@@ -289,7 +289,7 @@ Details on the SJU and its members: http://www.sesarju.eu/players/members
     	 <xsd:simpleType name="ShipmentUseType">
 	  	<xsd:annotation>
 	  		<xsd:documentation>
-	  			Indicates whether the shipment is eclusive or not exclusive use.
+	  			Indicates whether the shipment is exclusive or not exclusive use.
 	  		</xsd:documentation>
 	  	</xsd:annotation>
         <xsd:restriction base="xsd:string">
@@ -525,7 +525,7 @@ Details on the SJU and its members: http://www.sesarju.eu/players/members
     <xsd:simpleType name="SubsidiaryHazardClassDivisionType">
 		<xsd:annotation>
             <xsd:documentation>
-               Identifies the sibsidiary hazard class / division identification
+               Identifies the subsidiary hazard class / division identification
                containing a numeric field separated by a decimal. There may
                be 0, 1, or 2 subsidiary risk classes or divisions. If there is
                more than one, each should be separated by a comma. The
